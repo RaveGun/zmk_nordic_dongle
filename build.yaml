@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrf52840dk_nrf52840
+  - board: nrfmicro
     shield: jiran_left
-  - board: nrf52840dk_nrf52840
+  - board: nrfmicro
     shield: jiran_right
