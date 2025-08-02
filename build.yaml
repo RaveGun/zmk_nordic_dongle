@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrfmicro
+  - board: nrfmicro_11
     shield: jiran_left
-  - board: nrfmicro
+  - board: nrfmicro_11
     shield: jiran_right
